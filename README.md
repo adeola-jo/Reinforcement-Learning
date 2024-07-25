@@ -21,7 +21,7 @@ This repository is dedicated to exploring the exciting field of reinforcement le
 
 ### Project 1: Q-Learning
 
-**Description**: Implementation of the Q-Learning algorithm on various environments from the OpenAI Gym library.
+**Description**: Implementation of the Q-Learning algorithm for point robot move to goal task.
 
 **Files**:
 - `notebook.ipynb`: This Jupyter notebook contains the implementation and step-by-step explanation of the Q-Learning algorithm.
